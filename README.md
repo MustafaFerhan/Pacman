@@ -1,2 +1,2 @@
 # Pacman
-Bozuk Yol - bacman badge algoritması
+Bozuk Yol - pacman badge algoritması
