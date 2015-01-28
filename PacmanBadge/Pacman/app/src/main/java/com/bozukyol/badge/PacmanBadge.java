@@ -1,7 +1,5 @@
-package com.bozukyol.pacmanbadge;
+package com.bozukyol.badge;
 
-
-import android.util.Log;
 
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
@@ -113,7 +111,6 @@ public class PacmanBadge {
 
     public void clearPacmanQueue(){
         queue.clear();
-        Log.i("", "clearPacmanQueue");
     }
 
 }
